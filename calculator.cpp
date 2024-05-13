@@ -3,27 +3,15 @@
 
 using namespace std;
 
-class calculation
-{
-private:
-  int n,n1;
-  float ans;
-  char oper;
-public:
-  void intake();
-  void print();
+class calculation{
+  private:
+    int n;
 };
-
-calculation::calculation(/* args */)
-{
-}
-
-calculation::~calculation()
-{
-}
 
 
 int main()
 {
-
+  int ans;
+  cin >> ans;
+  char oper; 
 }
